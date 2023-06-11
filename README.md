@@ -13,3 +13,4 @@ OpenCV library<br>
 1. Open terminal or command prompt and navigate to the directory where you cloned the repository.
 2. To start detection on live video stream from camera, run python Detection.py command.
 3. The prediction result will shown on the border
+4. Press 'q' to stop the program
