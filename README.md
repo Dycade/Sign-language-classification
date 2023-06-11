@@ -4,10 +4,10 @@ The system employs a our best pre-trained Convolutional Neural Network (CNN) mod
 
 # Prerequisites
 Make sure you have installed:<br>
-Python 3.x<br>
-TensorFlow library<br>
-Keras library<br>
-OpenCV library<br> 
+* Python 3.x<br>
+* TensorFlow library<br>
+* Keras library<br>
+* OpenCV library<br> 
 
 # Usage
 1. Open terminal or command prompt and navigate to the directory where you cloned the repository.
