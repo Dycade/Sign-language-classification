@@ -1,5 +1,5 @@
 # American Sign Language (ASL) Detection
-![amer_sign2](https://github.com/Dycade/Sign-language-classification/assets/85650434/5b8eab5d-e828-47fe-bfb8-dc2fcbebab1e)<br>
+![amer_sign2](https://github.com/Dycade/Sign-language-classification/assets/85650434/2756d909-b806-49a5-9135-4b1ef6b0ee84)<br>
 This Python-based program employs deep learning techniques to accurately detect and recognize ASL gestures. Our model is trained using the Sign Language MNIST dataset. We performed model selection on CNN, large CNN, and ResNet architectures followed by hyperparameter optimization. Further details can be found in our Jupyter Notebook.
 The system employs a our best pre-trained Convolutional Neural Network (CNN) model to classify input images into their corresponding ASL symbols.
 
