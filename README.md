@@ -15,3 +15,6 @@ Make sure you have installed:<br>
 2. To start detection on live video stream from camera, run python Detection.py command.
 3. The prediction result will shown on the border
 4. Press 'q' to stop the program
+
+# Snapshot 
+![$ MN_TF8FBMX2YG0YL89ON](https://github.com/Dycade/Sign-language-classification/assets/85650434/721dcdcc-a5cb-474c-ad1d-21bca8cecdc0)
